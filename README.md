@@ -3,4 +3,4 @@ Conntection terminated From Freddy Fazbear's Pizzeria Simulator once the video i
 #INFO
 I WILL POST THE SOURCE CODE LATER ON! 
 
-![michael afton](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpa1.narvii.com%2F6394%2Fb330790a47fce8aa4365eee199b61c6fc9176825_hq.gif&f=1&nofb=1&ipt=b3da9efce279e8d032a4d26370b9a656621ec25b742208e0a591aed6e41d561e&ipo=images)
+![michael afton](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FsYVr2Usj9v8%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=f18d7fec33fe31a63b697ab21ac1e98c43a38936ca19b66be98858c327f04b32&ipo=images)
