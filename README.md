@@ -1,7 +1,7 @@
 # Connection-Terminated
 Conntection terminated From Freddy Fazbear's Pizzeria Simulator once the video is done it crashes the pc all rights go to scott cawthon
 
-## Features
+## Info
 - THIS WILL BSOD YOUR PC SO I RECOMMEND YOU RUN IT ON A VM 
 - IF YOU LOSE DATA ON YOUR PC BECUASE OF THE BSOD IM NOT RESPONSIBLE 
 - ALL RIGHTS GO TO SCOTT CAWTHON 
